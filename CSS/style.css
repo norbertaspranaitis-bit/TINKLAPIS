@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-image: url(../img/pexels-eberhardgross-1366919.jpg);
+     background-size: auto;
+     background-repeat: none;
+    height: auto;
+    width: 80%;
+    text-align: center;
+}
